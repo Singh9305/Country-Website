@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ body {
+    background-color: rgb(240, 207, 152);
+    background-size: cover;
+}
+
+ .dashboard-container {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+} 
+
+.dashboard-container h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.region{
+  font-size: 18px;
+    font-weight: bold;
+    margin: 15px 0;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.container{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 430px;
+} 
+
+.container h2{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.container label{
+    font-size: 20px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+.inp{
+    font-size: 16px;
+    padding: 15px 10px;
+    margin: 15px 0;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+
+}
+
+.btn{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn hover{
+    color: red;
+    opacity: 0.5px;
+} 
+
+ /* Css of dashboard */
+
+  .container {
+    background-color: rgb(177, 246, 177);
+    width: 80vw;
+    max-width: 37.5em;
+    padding: 3em 2.5em;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 0.62em;
+    box-shadow: 0 1.25em 1.8em rgba(8, 21, 65, 0.25);
+  }
+  
+ .country-box {
+  display: inline-block;
+  width: 300px;
+  height: 150p;
+  border: 5px solid rgb(48, 49, 46);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 1.62em;
+  background-color: rgb(177, 246, 177);
+  width: 27%;
+  min-width: 7.5em;
+
+}
+
+.country-flag {
+  display: inline-block;
+  width: 45px;
+  height: 30px;
+  margin-right: 10px;
+  
+}
+
+.btnmid {
+  text-align: center;
+  font-weight: 600;
+    color: #222a43;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 1.8em;
+    
+}
+
+h1{
+  text-align: center;
+}
+
+/* body {
+background-image: url("https://cdn.statically.io/img/blazepress.com/.image/c_fit,h_600,w_600/MTI5NTk1OTM4MTIwNDExNzc5/weekly-inspiration-24jpg.jpg?quality=100&f=auto");
+} */
