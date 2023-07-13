@@ -1,14 +1,14 @@
 # Country-Website
-1)I have created country website by using country API in which it shows all information about country like
-  i. Country name
- ii. Population
-iii. Flag
- iv. Capital
-  v. Currency
- vi. Languages.
+1)I have created country website by using country API in which it shows all information about country like                                                            
+  i. Country name                                                                                                                                                     
+ ii. Population                                                                                                                                                       
+iii. Flag                                                                                                                                                             
+ iv. Capital                                                                                                                                                          
+  v. Currency                                                                                                                                                         
+ vi. Languages.                                                                                                                                                       
 
 2)Technology used in this website are:-                                                                                                                              
-  i. HTML
+  i. HTML                                                                                                                                                             
  ii. CSS
 iii. AngularJs
 
