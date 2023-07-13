@@ -7,7 +7,7 @@ iii. Flag
   v. Currency
  vi. Languages.
 
-2)Technology used in this website are:-
+2)Technology used in this website are:-                                                                                                                              
   i. HTML
  ii. CSS
 iii. AngularJs
